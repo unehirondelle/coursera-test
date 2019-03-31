@@ -8,7 +8,7 @@
 h1 {
     margin: 50px;
     text-align: center;
-    font-size: 4em;
+    font-size: 175%;
 }
 
 section.row {
@@ -24,12 +24,13 @@ h2 {
     position: absolute;
     top: 0;
     right: 0;
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     text-align: center;
-    width: 150px;
-    height: 50px;
+    width: 120px;
+    height: 40px;
     padding: 5px;
     margin: 5px;
+    font-size: 125%;
 }
 
 #menu_1 {
@@ -45,14 +46,14 @@ h2 {
 }
 
 p {
-    border: 2px solid #2f2f4f;
+    border: 1px solid #2f2f4f;
     background-color: #add8e6;
     height: 300px;
     color: #000000;
     text-align: justify;
     padding: 60px 10px 5px 10px;
     overflow: auto;
-margin: 5px;
+    margin: 5px;
 }
 
 .row {
