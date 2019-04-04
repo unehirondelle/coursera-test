@@ -47,7 +47,24 @@ body {
     padding: .7rem;
 }
 
-@media (max-width: 767px) {
+@media (min-width: 577px) and (max-width: 767px) {
+    .navbar > .container-fluid {
+        justify-content: space-between;
+        padding-right: 0;
+    }
+
+    .navbar-brand {
+        padding-top: .8rem;
+        height: 5rem;
+    }
+
+    .navbar-brand h1 {
+        padding-top: 10px;
+        font-size: 5vw;
+    }
+}
+
+@media (max-width: 576px) {
     .navbar > .container-fluid {
         justify-content: space-between;
         padding-right: 0;
@@ -100,6 +117,7 @@ body {
     margin: -.5rem -1rem;
     background-color: #fff;
 }
+
 }
 
 #navbarNavDropdown a {

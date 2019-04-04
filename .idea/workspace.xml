@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="535a90a5-3cd1-4370-a3be-a282623bbed1" name="Default Changelist" comment="Solution for Module3">
-      <change afterPath="$PROJECT_DIR$/module3_solution/css/module3_stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3_solution/index.html" afterDir="false" />
+    <list default="true" id="535a90a5-3cd1-4370-a3be-a282623bbed1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3_solution/css/module3_stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/module3_solution/css/module3_stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3_solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module3_solution/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,20 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module3_solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+            <state relative-caret-position="731">
+              <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module3_solution/css/module3_stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-259">
-              <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+            <state relative-caret-position="421">
+              <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -56,6 +56,7 @@
       <find>6b8e23</find>
       <find>tile</find>
       <find>jum</find>
+      <find>block</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -77,8 +78,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="724" />
+    <option name="y" value="19" />
+    <option name="width" value="1060" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -118,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553794913254</updated>
       <workItem from="1553794914472" duration="36758000" />
-      <workItem from="1554331715912" duration="14922000" />
+      <workItem from="1554331715912" duration="16554000" />
     </task>
     <task id="LOCAL-00001" summary="My first page.">
       <created>1553795389479</created>
@@ -155,14 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1554013744121</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Solution for Module3">
+      <created>1554401884273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554401884273</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Solution for Module3">
+      <created>1554402832538</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554402832538</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51680000" />
+    <option name="totallyTimeSpent" value="53312000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="724" y="19" width="1060" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.08064516" />
@@ -240,17 +256,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module3_solution/css/module3_stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/module3_solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259">
-          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+        <state relative-caret-position="731">
+          <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module3_solution/index.html">
+    <entry file="file://$PROJECT_DIR$/module3_solution/css/module3_stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+        <state relative-caret-position="421">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
         </state>
       </provider>
     </entry>
