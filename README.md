@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/unehirondelle/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unehirondelle/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The repositories named "module2_solution" - "module5_solution" contain my result of solving four test tasks for the course "HTML, CSS, and Javascript for Web Developers" provided by the Johns Hopkins University on the Coursera platform.
+The goal for "module2_solution" is to build a static web page with three columns responsive to the display size without using the Bootstrap. The browser version of the solution is available via https://unehirondelle.github.io/coursera-test/module2_solution/
+The goal for "module3_solution" is to build a static web page responsive to display size and collapsable menu button using Bootstrap classes.https://unehirondelle.github.io/coursera-test/module3_solution/
+The goal for "module4_solution" is to write a Javascript function aimed to add a specific phrase to each piece of the array content. https://unehirondelle.github.io/coursera-test/module4_solution/
+The goal for "module5_solution" is to change the behaviour of the existing code and send the user to a randon categorie after clicking on the Speciatly menu instead of the wright page. https://unehirondelle.github.io/coursera-test/module5_solution/
